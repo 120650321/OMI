@@ -1,0 +1,6 @@
+F:\kaifa\OMI\tools\OMIManager\bin\publish_fd\OMIManager.exe
+F:\kaifa\OMI\tools\OMIManager\bin\publish_fd\ico.ico
+F:\kaifa\OMI\tools\OMIManager\bin\publish_fd\OMIManager.dll
+F:\kaifa\OMI\tools\OMIManager\bin\publish_fd\OMIManager.deps.json
+F:\kaifa\OMI\tools\OMIManager\bin\publish_fd\OMIManager.runtimeconfig.json
+F:\kaifa\OMI\tools\OMIManager\bin\publish_fd\OMIManager.pdb
